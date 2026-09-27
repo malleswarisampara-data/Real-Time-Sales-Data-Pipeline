@@ -1,0 +1,41 @@
+order_id,order_date,customer_id,product,category,region,quantity,unit_price
+ORD001,2026-01-02,CUST001,Laptop,Electronics,South,2,55000
+ORD002,2026-01-03,CUST002,Smartphone,Electronics,North,1,28000
+ORD003,2026-01-04,CUST003,Headphones,Electronics,East,3,2500
+ORD004,2026-01-05,CUST004,Office Chair,Furniture,West,2,7500
+ORD005,2026-01-06,CUST005,Backpack,Accessories,South,4,1800
+ORD006,2026-01-08,CUST006,Monitor,Electronics,North,2,12000
+ORD007,2026-01-10,CUST007,Keyboard,Accessories,East,3,2200
+ORD008,2026-01-12,CUST008,Desk,Furniture,West,1,9500
+ORD009,2026-01-15,CUST009,Laptop,Electronics,South,1,55000
+ORD010,2026-01-18,CUST010,Smartphone,Electronics,Central,2,28000
+ORD011,2026-01-20,CUST011,Headphones,Electronics,North,5,2500
+ORD012,2026-01-22,CUST012,Office Chair,Furniture,East,2,7500
+ORD013,2026-01-25,CUST013,Backpack,Accessories,West,3,1800
+ORD014,2026-01-28,CUST014,Monitor,Electronics,South,1,12000
+ORD015,2026-02-01,CUST015,Keyboard,Accessories,Central,4,2200
+ORD016,2026-02-03,CUST016,Desk,Furniture,North,2,9500
+ORD017,2026-02-05,CUST017,Laptop,Electronics,East,1,55000
+ORD018,2026-02-08,CUST018,Smartphone,Electronics,West,2,28000
+ORD019,2026-02-10,CUST019,Headphones,Electronics,South,3,2500
+ORD020,2026-02-12,CUST020,Office Chair,Furniture,Central,1,7500
+ORD021,2026-02-15,CUST021,Backpack,Accessories,North,2,1800
+ORD022,2026-02-18,CUST022,Monitor,Electronics,East,2,12000
+ORD023,2026-02-20,CUST023,Keyboard,Accessories,West,5,2200
+ORD024,2026-02-22,CUST024,Desk,Furniture,South,1,9500
+ORD025,2026-02-25,CUST025,Laptop,Electronics,Central,2,55000
+ORD026,2026-02-28,CUST026,Smartphone,Electronics,North,1,28000
+ORD027,2026-03-01,CUST027,Headphones,Electronics,East,4,2500
+ORD028,2026-03-03,CUST028,Office Chair,Furniture,West,2,7500
+ORD029,2026-03-05,CUST029,Backpack,Accessories,South,3,1800
+ORD030,2026-03-08,CUST030,Monitor,Electronics,Central,1,12000
+ORD031,2026-03-10,CUST031,Keyboard,Accessories,North,2,2200
+ORD032,2026-03-12,CUST032,Desk,Furniture,East,2,9500
+ORD033,2026-03-15,CUST033,Laptop,Electronics,West,1,55000
+ORD034,2026-03-18,CUST034,Smartphone,Electronics,South,2,28000
+ORD035,2026-03-20,CUST035,Headphones,Electronics,Central,3,2500
+ORD036,2026-03-22,CUST036,Office Chair,Furniture,North,1,7500
+ORD037,2026-03-25,CUST037,Backpack,Accessories,East,4,1800
+ORD038,2026-03-28,CUST038,Monitor,Electronics,West,2,12000
+ORD039,2026-03-30,CUST039,Keyboard,Accessories,South,3,2200
+ORD040,2026-04-01,CUST040,Desk,Furniture,Central,1,9500
